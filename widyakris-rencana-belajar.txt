@@ -3,5 +3,9 @@ RENCANA BELAJAR WIDYAKRIS
 -Javascript
   *ES6
   *Framewirk Javascript
+   ^ Angular
+   ^ React
+   ^ Vue
 -PHP Framework
+ ^ Codeigniter
 -UI UX
