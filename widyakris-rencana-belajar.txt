@@ -1,0 +1,6 @@
+RENCANA BELAJAR WIDYAKRIS
+
+-Javascript
+  *ES6
+  *Framewirk Javascript
+-PHP Framework
