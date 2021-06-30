@@ -4,3 +4,4 @@ RENCANA BELAJAR WIDYAKRIS
   *ES6
   *Framewirk Javascript
 -PHP Framework
+-UI UX
