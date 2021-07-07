@@ -1,0 +1,2 @@
+Hello I am Krisdian, I am from Jombang, East Java. Currently I can do fullstack web development using php Laravel Framework, jQuery, React js, and mySql/mariaDB.
+I want to learn about server-side javascript framework like express.
