@@ -8,4 +8,5 @@ RENCANA BELAJAR WIDYAKRIS
    ^ Vue
 -PHP Framework
  ^ Codeigniter
+ ^ Laravel
 -UI UX
